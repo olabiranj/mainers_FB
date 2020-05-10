@@ -1,2 +1,2 @@
 # mainers_FB
-A social media app made with react.
+A social media app made with react and redux.
